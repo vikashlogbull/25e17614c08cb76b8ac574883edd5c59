@@ -54,4 +54,4 @@
  * @see http://drupal.org/documentation/install/multi-site
  */
 
-$sites['dev-fordemo12sep-5fd160cd.evolverinc.tech'] = 'all';
+$sites['test-fordemo12sep-5fd160cd.evolverinc.tech'] = 'all';
